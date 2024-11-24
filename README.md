@@ -1,0 +1,2 @@
+# Capstone_covid19_proj
+Covid-19_predictive_modelling_for_public_health 
